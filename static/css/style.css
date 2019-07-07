@@ -8782,7 +8782,7 @@ textarea.form-control {
     display: inline-block; }
 
 .ftco-section {
-  padding: 7em 0;
+  padding: 3em 0;
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
@@ -8800,7 +8800,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   background: #b9d6ff;
-  padding: 7em 0;
+  padding: 3em 0;
   z-index: 0;
   position: relative; }
   .ftco-footer .overlay {

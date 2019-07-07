@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 23/01/2019 09:05
+  	Creation date: 05/07/2019 06:30
   	*/
 
 @font-face {
@@ -30,11 +30,12 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-doctor:before { content: "\f100"; }
-.flaticon-stethoscope:before { content: "\f101"; }
-.flaticon-ambulance:before { content: "\f102"; }
-.flaticon-24-hours:before { content: "\f103"; }
-.flaticon-experiment-results:before { content: "\f104"; }
-.flaticon-heart-rate:before { content: "\f105"; }
-.flaticon-dropper:before { content: "\f106"; }
-.flaticon-first-aid-kit:before { content: "\f107"; }
+.flaticon-connector:before { content: "\f100"; }
+.flaticon-f1-car:before { content: "\f101"; }
+.flaticon-website:before { content: "\f102"; }
+.flaticon-data:before { content: "\f103"; }
+.flaticon-watching:before { content: "\f104"; }
+.flaticon-growth:before { content: "\f105"; }
+.flaticon-guitar:before { content: "\f106"; }
+.flaticon-powerpoint:before { content: "\f107"; }
+.flaticon-project-management:before { content: "\f108"; }
